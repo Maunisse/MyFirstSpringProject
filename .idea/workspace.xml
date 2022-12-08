@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0204b8e4-3838-4e37-a58d-6e8d912e9110" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HMdWoFfXQxcrLP8qMUTXzkdmXu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Desk/SpringSecurityApplication/src/main/resources/templates/product",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "9e1d8da40a37fc8d07136b178b35eac2"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.springsecurityapplication.controllers.admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desk\SpringSecurityApplication\src\main\resources\templates\product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desk\SpringSecurityApplication\src\main\resources\templates\admin" />
+      <recent name="E:\Desk\SpringSecurityApplication\src\main\resources\templates\authentication" />
+      <recent name="F:\Уроки\65 spring 22.11\мое\SpringSecurityApplication\src\main\resources\templates\user" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springsecurityapplication.controllers.admin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringSecurityApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springsecurityapplication.SpringSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0204b8e4-3838-4e37-a58d-6e8d912e9110" name="Changes" comment="" />
+      <created>1668098923433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668098923433</updated>
+      <workItem from="1668098924514" duration="4585000" />
+      <workItem from="1668523005886" duration="11746000" />
+      <workItem from="1668845409165" duration="684000" />
+      <workItem from="1668848074530" duration="24000" />
+      <workItem from="1668848214774" duration="8485000" />
+      <workItem from="1668889157767" duration="3052000" />
+      <workItem from="1669021349566" duration="79000" />
+      <workItem from="1670074182839" duration="19584000" />
+      <workItem from="1670184542448" duration="6778000" />
+      <workItem from="1670219422836" duration="1817000" />
+      <workItem from="1670221255173" duration="642000" />
+      <workItem from="1670221968403" duration="39559000" />
+      <workItem from="1670277133812" duration="4784000" />
+      <workItem from="1670305352352" duration="1484000" />
+      <workItem from="1670306906687" duration="44555000" />
+      <workItem from="1670391503560" duration="27213000" />
+      <workItem from="1670489222069" duration="613000" />
+      <workItem from="1670498612600" duration="27391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
