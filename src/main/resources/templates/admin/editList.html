@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--<form th:method="post" th:action="@{/admin/userList/edit/{id}(id=${person.getId()})}" th:object="${person}">-->
+<form th:method="post" th:action="@{/admin/userList/edit/{id}(id=${person.getId()})}" th:object="${person}">
+
+    <p th:text="'Логин: '+${person.getLogin()}"></p>
+    <p th:text="'Логин: '+${person.getRole_role().getName()}"></p>
+    <p th:text="'Пароль: '+${person.getPassword()}"></p>
+
+    <input type="hidden" th:name="${_csrf}" th:value="${_csrf.token}">
+    <input type="text" th:field="*{login}" placeholder="Введите ваш логин" name="username" id="username">
+    <div style="color: red" th:if="${#fields.hasErrors('login')}" th:errors="*{login}"></div>
+    <br>
+    <label for="password">Введите пароль: </label>
+    <br>
+    <input type="password" th:field="*{password}" placeholder="Введите ваш пароль" name="password" id="password" value="${person.getHash}">
+    <div style="color: red" th:if="${#fields.hasErrors('password')}" th:errors="*{password}"></div>
+
+    <p>Выберите роль</p>
+    <input type="radio" id="role_1" name="new_role" value="ROLE_USER">
+    <label for="role_1">ROLE_USER</label>
+    <br>
+
+    <input type="radio" id="role_3" name="new_role" value="ROLE_SELLER">
+    <label for="role_3">ROLE_SELLER</label>
+
+    <input type="submit" value="Редактировать">
+
+</form>
+</body>
+</html>
