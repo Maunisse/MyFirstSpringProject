@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div th:each="user: ${users}">
+    <p th:text="'Логин: '+${user.getLogin()}"></p>
+    <p th:text="'Роль: '+${user.getRole_role().getName()}"></p>
+    <br>
+<a th:href="@{/admin/userList/edit/{id}(id=${user.getId})}">Изменить роль</a>
+    <hr>
+</div>
+</body>
+</html>
